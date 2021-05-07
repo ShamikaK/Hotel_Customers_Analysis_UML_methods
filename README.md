@@ -1,4 +1,4 @@
-## Hotel_Customers_Analysis_UML_methods
+## Hotel Customers Analysis UML methods
 
 ### Project Goal
 Applied Unsupervised Machine Learning concepts (like Association Rules, Dimensionality Reduction and Clustering models etc.) to segment the customers of a hotel.
