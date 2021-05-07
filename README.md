@@ -1,9 +1,7 @@
 ## Hotel_Customers_Analysis_UML_methods
 
 ### Project Goal
-Examining the various factors that are related to police shootings in the US
-
-Dataset Source: Data Police shootings (https://www.kaggle.com/mrmorj/data-police-shootings)
+Applied Unsupervised Machine Learning concepts (like Association Rules, Dimensionality Reduction and Clustering models etc.) to segment the customers of a hotel.
 
 
 ### Team & Course
